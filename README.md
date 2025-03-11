@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/kim20598/make-it-transparent.git">
-    <img src="make-it-transparent.png" alt="Logo" width="150" height="150">
+    <img src="screenshots/make-it-transparent.png" alt="Logo" width="150" height="150">
   </a>  
   
   <h3 align="center">make-it-transparent</h3>
@@ -20,7 +20,7 @@
 <br/>
 <br />
 
-![preview](screenshots/screenshot1.png)
+![preview](screenshots/Screenshot1.png)
 <br/>
 
  make-it-transparent is a script that will make anything transparent by few click .
