@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/kim20598/make-it-transparent.git">
-    <img src="letterboxd-logo.png" alt="Logo" width="150" height="150">
+    <img src="make-it-transparent.png" alt="Logo" width="150" height="150">
   </a>  
   
   <h3 align="center">make-it-transparent</h3>
@@ -16,17 +16,20 @@
 
 <br />
 
+![preview](screenshots/screenshot.png)
+<br/>
+<br />
+
 ![preview](screenshots/screenshot1.png)
 <br/>
-
 
  make-it-transparent is a script that will make anything transparent by few click .
 
 ## Installation
 
-u can take it throw git  [make-it-transparent](https://github.com/kim20598/make-it-transparent.git).  
+u can take it throw git [manually](#manual-installation).
 
-or just download it from the green button [manually](#manual-installation).
+or just download it from the green button [make-it-transparent](https://github.com/kim20598/make-it-transparent.git).
 
 ## Manual Installation
 
@@ -38,4 +41,7 @@ or just download it from the green button [manually](#manual-installation).
 
 ### the req app
 
-. Open Chrome and go to [autohotkey](https://www.autohotkey.com/)
+1. Open your browser and go download [autohotkey](https://www.autohotkey.com/)
+2. click the script to start it
+3. go to ur browser ot anything that u wanna make it transpernt
+4. jut clik "Crt+Alt" and right mouse click to turn it on and off
