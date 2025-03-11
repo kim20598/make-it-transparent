@@ -16,7 +16,7 @@
 
 <br />
 
-![preview](screenshots/screenshot.png)
+![preview](screenshots/Screenshot.png)
 <br/>
 <br />
 
