@@ -44,4 +44,4 @@ or just download it from the green button [make-it-transparent](https://github.c
 1. Open your browser and go download [autohotkey](https://www.autohotkey.com/)
 2. click the script to start it
 3. go to ur browser ot anything that u wanna make it transpernt
-4. jut click "Crt+Alt" and right mouse click ro turn it on and off
+4. jut click "Crt+Alt" and right mouse click to turn it on and off
